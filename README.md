@@ -26,6 +26,9 @@ A programmable smart watch based on the STM32F103C8T6 microcontroller, featuring
 | Buttons | 3x tactile buttons |
 | Size | 39.5 mm x 45.5 mm x 14.5 mm |
 
+<img width="1280" height="1706" alt="48ff4a5b0389d6fd098f9042dba37e4d" src="https://github.com/user-attachments/assets/5a2a519f-a917-4673-922f-d622e0778159" />
+<img width="1280" height="1706" alt="a57737a8d27008fa6db3bfe8c1006309" src="https://github.com/user-attachments/assets/f0bf1f54-7eed-4594-bc0e-1905b9557acf" />
+
 ## Repository Structure
 
 ```

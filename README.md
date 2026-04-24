@@ -1,3 +1,5 @@
+<img width="1280" height="1706" alt="a57737a8d27008fa6db3bfe8c1006309" src="https://github.com/user-attachments/assets/ee614eea-c9aa-4a6b-aa0f-a4f5e04709f6" />
+<img width="1280" height="1706" alt="48ff4a5b0389d6fd098f9042dba37e4d" src="https://github.com/user-attachments/assets/6e9a73b5-b0e0-47d8-af14-3e5d383d9c5a" />
 # STM32-WATCH Practice
 
 ## Overview

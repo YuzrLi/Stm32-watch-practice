@@ -1,5 +1,3 @@
-<img width="1280" height="1706" alt="a57737a8d27008fa6db3bfe8c1006309" src="https://github.com/user-attachments/assets/ee614eea-c9aa-4a6b-aa0f-a4f5e04709f6" />
-<img width="1280" height="1706" alt="48ff4a5b0389d6fd098f9042dba37e4d" src="https://github.com/user-attachments/assets/6e9a73b5-b0e0-47d8-af14-3e5d383d9c5a" />
 # STM32-WATCH Practice
 
 ## Overview
@@ -21,7 +19,7 @@ This project is based on an open-source STM32 watch design found online, modifie
 ## Features
 1. Digital clock (RTC)
 2. Date/time setting
-3. Sliding icon menu
+3. Button-navigated scrolling icon menu
 4. Stopwatch
 5. LED flashlight
 6. Dinosaur game
@@ -31,3 +29,11 @@ This project is based on an open-source STM32 watch design found online, modifie
 ## Development
 - Keil MDK µVision5
 - Flash via ST-LINK (SWD)
+
+## Demo
+
+**Temperature display**
+![Thermometer](https://github.com/user-attachments/assets/ee614eea-c9aa-4a6b-aa0f-a4f5e04709f6)
+
+**Main clock**
+![Clock](https://github.com/user-attachments/assets/48ff4a5b0389d6fd098f9042dba37e4d)

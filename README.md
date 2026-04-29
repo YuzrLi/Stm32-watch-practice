@@ -36,4 +36,5 @@ This project is based on an open-source STM32 watch design found online, modifie
 ![Thermometer](https://github.com/user-attachments/assets/ee614eea-c9aa-4a6b-aa0f-a4f5e04709f6)
 
 **Main clock**
-![Clock](https://github.com/user-attachments/assets/48ff4a5b0389d6fd098f9042dba37e4d)
+![Clock]<img width="1280" height="1706" alt="48ff4a5b0389d6fd098f9042dba37e4d" src="https://github.com/user-attachments/assets/bb19fc54-619e-46a4-8595-0a16c7cfab12" />
+
